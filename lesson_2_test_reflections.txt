@@ -5,5 +5,18 @@ How is the staging area different from the working directory and the repository?
 answer: instead of commiting unnecessarily it gives us flexibility to reset back and forth before we make a final commit.
 		it offers a lot of flexibility.
 
+How can you use the staging area to make sure you have one commit per logical change?
+answer: we will store the code temporarily in staging area until one logical change is made.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+answer: experimenting keeping orginal track when others are working on it. it will help us in giving freedom to explore even when others are working on it.
 
+How do the diagrams help you visualize the branch structure?
+answer: very well, they are quite useful.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+answer: it is like adding each small bit to make it grand, this feature enables us to collaborate and work on single project.
+because it is the way the git merges :P .
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+answer: automatic merge is awesome feature of git at the same time manual merge come to rescue when automatic merge fails, it helps us to make necessary adjustments unless doing automatically and troubling us :P .
