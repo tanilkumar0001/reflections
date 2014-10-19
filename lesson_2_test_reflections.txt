@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+answer: it creates a .git folder to store the meta data. we have to initialize because then only git will create the hidden folder to store the 		older versions.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+answer: instead of commiting unnecessarily it gives us flexibility to reset back and forth before we make a final commit.
+		it offers a lot of flexibility.
+
+
+
